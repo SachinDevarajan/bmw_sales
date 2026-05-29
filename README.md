@@ -192,3 +192,8 @@ Through this project, I improved my skills in:
 **Sachin**
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
+# 🔗 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sachindevarajan
+
+
