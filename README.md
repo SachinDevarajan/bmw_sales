@@ -1,103 +1,194 @@
-BMW_SALES_DASHBOARD
-Excel Dashboard Project | BMW Sales Analysis | Pivot Tables | Pivot Charts | Slicers | Data Visualization
-📌 Overview
+# 🚗 BMW Sales Dashboard
 
-This project is an interactive BMW Sales Dashboard created using Microsoft Excel. The dashboard provides insights into vehicle sales performance, sales trends, model-wise analysis, fuel type distribution, and country-wise sales performance.
+## 📊 Excel Dashboard Project | Sales Analysis | Data Visualization
 
-The dashboard is designed to help analyze BMW vehicle sales data efficiently through dynamic visualizations and interactive slicers.
+An interactive **BMW Sales Dashboard** built using **Microsoft Excel** to analyze vehicle sales performance, yearly growth trends, fuel type distribution, and top-selling BMW models through dynamic visualizations and slicers.
 
-❓ Problem Statement
+---
 
-Automobile companies generate large amounts of sales data across different vehicle models, countries, and fuel types. Analyzing this data manually makes it difficult to identify top-performing models, customer preferences, and yearly sales growth.
+# 📌 Overview
 
-The objective of this project is to build an interactive dashboard that:
+This project focuses on analyzing BMW vehicle sales data using Excel dashboarding techniques.
+The dashboard provides business insights into:
 
-Tracks overall vehicle sales performance
-Identifies top-selling BMW models
-Analyzes sales trends over time
-Compares sales across countries
-Examines fuel type distribution
-Supports business decision-making through visual insights
-🗂️ Dataset
+* Total vehicle sales
+* Sales trends over time
+* Best-selling models
+* Country-wise sales analysis
+* Fuel type distribution
+* Average pricing and horsepower analysis
 
-The dataset contains BMW vehicle sales information with the following fields:
+The dashboard is fully interactive and updates dynamically using slicers.
 
-Vehicle Model
-Vehicle Price
-Horsepower
-Fuel Type
-Body Type
-Country
-Sales Year
-Total Vehicles Sold
+---
 
-The dataset was cleaned and transformed before dashboard creation.
+# ❓ Problem Statement
 
-🛠️ Tools and Technologies Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-KPI Cards
-Data Cleaning
-Dashboard Design Techniques
-⚙️ Methodology
-1. Data Cleaning
-Removed duplicate records
-Handled missing values
-Standardized model and country names
-Verified numerical data accuracy
-2. Data Preparation
-Organized vehicle sales data
-Created calculated metrics for:
-Total Vehicles
-Average Vehicle Price
-Average Horsepower
-3. Pivot Table Creation
+Managing automobile sales data across multiple models, countries, and fuel types can be difficult without proper visualization tools.
 
-Built Pivot Tables for:
+The goal of this project is to build a centralized dashboard that helps:
 
-Sales by Model
-Sales by Country
-Sales Trend by Year
-Fuel Type Analysis
-Top-Selling Models
-4. Dashboard Development
-Designed KPI cards for quick insights
-Added interactive slicers for filtering
-Created charts for sales analysis
-Applied consistent formatting and dashboard layout
-5. Validation
-Verified chart calculations
-Tested slicer functionality
-Ensured dashboard interactivity and accuracy
-📊 Dashboard Features
-KPI Cards
-Total Vehicles Sold
-Average Vehicle Price
-Top Selling Model
-Average Horsepower
-Interactive Filters
-Vehicle Model
-Body Type
-Visualizations
-Sales by Model
-Sales Trend by Year
-Sales by Country
-Top 3 Best-Selling Models
-Sales by Fuel Type Distribution
+✔ Monitor sales performance
+✔ Identify top-performing BMW models
+✔ Analyze yearly growth trends
+✔ Compare sales across countries
+✔ Understand fuel type preferences
+✔ Support business decision-making with data insights
 
-The dashboard dynamically updates based on user selections, providing interactive and efficient analysis.
+---
 
-💡 Key Insights
-Total vehicle sales reached 9,082 units.
-The 3 Series emerged as the top-selling BMW model.
-Average vehicle price was approximately $50,840.
-Sales showed a consistent upward trend from 2005 to 2024.
-Petrol and hybrid vehicles contributed a significant share of total sales.
-Spain and France recorded strong sales performance among countries analyzed.
-SUVs and sedans represented major body type categories in the dataset.
-🚀 Conclusion
+# 🗂️ Dataset Information
 
-This project demonstrates how Microsoft Excel can be used to build professional and interactive business dashboards for automobile sales analysis. The dashboard helps identify sales trends, customer preferences, and top-performing models, enabling better business insights and strategic decision-making.
+The dataset contains BMW vehicle sales records with the following fields:
+
+* Vehicle Model
+* Vehicle Price
+* Horsepower
+* Fuel Type
+* Body Type
+* Country
+* Sales Year
+* Total Vehicles Sold
+
+Data cleaning and preprocessing were completed before dashboard development.
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Cards
+* Conditional Formatting
+* Dashboard Design Techniques
+
+---
+
+# ⚙️ Methodology
+
+### 1️⃣ Data Cleaning
+
+* Removed duplicate records
+* Handled missing values
+* Standardized category names
+* Verified data consistency
+
+### 2️⃣ Data Preparation
+
+* Organized sales metrics
+* Created calculated fields
+* Prepared summary tables for analysis
+
+### 3️⃣ Pivot Table & Chart Creation
+
+Built visualizations for:
+
+* Sales by Model
+* Sales by Country
+* Sales Trend by Year
+* Fuel Type Distribution
+* Top-Selling Models
+
+### 4️⃣ Dashboard Design
+
+* Added KPI cards
+* Implemented interactive slicers
+* Applied consistent formatting
+* Created business-friendly visual layouts
+
+---
+
+# 📊 Dashboard Features
+
+## ✅ KPI Cards
+
+* Total Vehicles Sold
+* Average Vehicle Price
+* Top Selling Model
+* Average Horsepower
+
+## ✅ Interactive Filters
+
+* Vehicle Model Filter
+* Body Type Filter
+
+## ✅ Visualizations
+
+* Sales by Model
+* Sales Trend by Year
+* Sales by Country
+* Top 3 Best-Selling Models
+* Sales by Fuel Type
+
+---
+
+# 📷 Dashboard Preview
+
+<img width="100%" alt="BMW Sales Dashboard" src="dashboard.png">
+
+---
+
+# 💡 Key Insights
+
+📌 Total vehicle sales reached **9,082 units**.
+
+📌 **3 Series** became the top-selling BMW model.
+
+📌 Average vehicle price was approximately **$50,840**.
+
+📌 Sales showed continuous growth from **2005 to 2024**.
+
+📌 Petrol and hybrid vehicles contributed significantly to total sales.
+
+📌 Spain and France recorded strong sales performance.
+
+📌 SUVs and sedans were among the most popular body types.
+
+---
+
+# 🚀 Conclusion
+
+This project demonstrates how Microsoft Excel can be used to create professional and interactive business dashboards for automobile sales analysis.
+
+The dashboard helps businesses:
+
+* Track sales performance
+* Identify growth opportunities
+* Analyze customer preferences
+* Make data-driven decisions efficiently
+
+---
+
+# 📁 Project Files
+
+```bash
+BMW_SALES_DASHBOARD/
+│
+├── BMW Sales Dashboard.xlsx
+├── BMW Sales Dataset.csv
+├── dashboard.png
+└── README.md
+```
+
+---
+
+# ⭐ Learning Outcomes
+
+Through this project, I improved my skills in:
+
+✔ Data Cleaning & Preparation
+✔ Pivot Tables & Pivot Charts
+✔ Interactive Dashboard Design
+✔ Business Data Analysis
+✔ Data Visualization in Excel
+✔ Insight Generation
+
+---
+
+# 🔗 Author
+
+**Sachin**
+
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
